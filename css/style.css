@@ -1,0 +1,40 @@
+body {
+    height: 100%;
+}
+
+h1 {
+
+}
+
+h2 {
+    color: green;
+}
+
+p {
+
+}
+
+.selected_page {
+    color: red;
+    font-style: bold;
+}
+
+.nav-background {
+    background-color: #343a40!important;
+}
+
+.nav-link-color {
+    color: #999c9e!important;
+}
+
+footer {
+    position: absolute;
+    bottom: calc(100vh - 50px)px;
+    text-align: center;
+    width: 100%;
+    margin-top: 10px;
+}
+
+@media only screen and (max-width: 600px) {
+    
+}
